@@ -935,6 +935,7 @@
 				margin: 0 auto;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;
+				width: 150px;
 			}
 
 			#main .avatar:before {
@@ -943,7 +944,7 @@
 				position: absolute;
 				top: 50%;
 				left: -3em;
-				width: 150px;
+				width: calc(50% + 6em);
 				height: 1px;
 				z-index: -1;
 				background: #c8cccf;
