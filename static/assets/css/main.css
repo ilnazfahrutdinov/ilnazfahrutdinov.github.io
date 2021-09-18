@@ -943,7 +943,7 @@
 				position: absolute;
 				top: 50%;
 				left: -3em;
-				width: calc(50% + 6em);
+				width: 150px;
 				height: 1px;
 				z-index: -1;
 				background: #c8cccf;
